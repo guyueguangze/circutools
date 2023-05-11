@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/circutools/static/css/main.dd1ea7b7.css",
+    "main.js": "/circutools/static/js/main.ba90234d.js",
+    "static/js/304.177ca572.chunk.js": "/circutools/static/js/304.177ca572.chunk.js",
+    "static/js/287.87e12406.chunk.js": "/circutools/static/js/287.87e12406.chunk.js",
+    "index.html": "/circutools/index.html",
+    "main.dd1ea7b7.css.map": "/circutools/static/css/main.dd1ea7b7.css.map",
+    "main.ba90234d.js.map": "/circutools/static/js/main.ba90234d.js.map",
+    "304.177ca572.chunk.js.map": "/circutools/static/js/304.177ca572.chunk.js.map",
+    "287.87e12406.chunk.js.map": "/circutools/static/js/287.87e12406.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd1ea7b7.css",
+    "static/js/main.ba90234d.js"
+  ]
+}
