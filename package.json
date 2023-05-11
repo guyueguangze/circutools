@@ -1,5 +1,5 @@
 {
-  "name": "circutool",
+  "name": "circutools",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +18,7 @@
     "web-vitals": "^2.1.4",
     "webpackbar": "^5.0.2"
   },
-  "homepage": "https://guyueguangze.github.io/circutool",
+  "homepage": "https://guyueguangze.github.io/circutools",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
